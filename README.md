@@ -4,7 +4,7 @@
 Emily is set of server-side scripts designed to allow access to common data driven services via sms messaging.
 
 ### Background
-Named after the sms-based AI in Tower of God, Emily is the spritual succesor to MapChat, a program I helped develop for MLH Desert Hacks 2017. Currently the two programs perform similar functions; however, Emily has been rewritten from scratch. Starting fresh allowed me to design a more flexible architechture for Emily, supporting further growth.
+Named after the sms-based AI in the manga Tower of God, Emily is the spritual succesor to MapChat, a program I helped develop for MLH Desert Hacks 2017. Currently the two programs perform similar functions; however, Emily has been rewritten from scratch. Starting fresh allowed me to design a more flexible architechture for Emily, supporting further growth.
 
 ### User Interface
 Emily has been written to interpret "conversational" commands, although it cannot hold a conversation itself. Queries can phrased naturally, with a high likelyhood of being interpreted correctly. Responses are strictly formatted, designed to convey data as in the clearest fashion.
