@@ -1,7 +1,7 @@
 # Emily
 
 ### Overview
-Emily is server-side software designed to allow access to common web-based services via sms messaging.
+Emily is server-side software designed to allow access to common data driven services via sms messaging.
 
 ### Background
 Named after the sms-based AI in Tower of God, Emily is the spritual succesor to MapChat, a program I helped develop for MLH Desert Hacks 2017. Currently the two programs perform similar functions; however, Emily has been rewritten from scratch. Starting fresh allowed me to design a more flexible architechture for Emily, supporting further growth.
